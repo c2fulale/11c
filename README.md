@@ -10,4 +10,5 @@
 Szia Alex
 
 Szia huni
+branch status
 ![alt text](Képernyőkép 2025-09-15 091913.png)
